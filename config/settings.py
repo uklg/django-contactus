@@ -27,7 +27,7 @@ SECRET_KEY = '12ttk@a$ovu)v$d(-x+i8h9=nu#r9*4y76=7wadcc1^mmc&n_h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['app3.saturdaynightdj.co.uk']
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
