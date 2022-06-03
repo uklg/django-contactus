@@ -126,4 +126,6 @@ DEFAULT_FROM_EMAIL = 'will@learndjango.com'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 
-STATIC_ROOT = BASE_DIR+ '/'+ "static"
+STATIC_ROOT = BASE_DIR / 'static'
+
+# BASE_DIR / 'db.sqlite3',
