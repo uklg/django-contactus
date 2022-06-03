@@ -125,3 +125,5 @@ STATIC_URL = '/static/'
 DEFAULT_FROM_EMAIL = 'will@learndjango.com'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
+
+STATIC_ROOT = BASE_DIR+ '/'+ "static"
